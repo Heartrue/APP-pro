@@ -1,12 +1,12 @@
 # APP-pro
-### 提示：常年使用经验分享，不喜误喷，点击应用名进入下载  &nbsp; ![GitHub stars](https://img.shields.io/github/stars/truetears1/truetears.svg)
-* [android版](#1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[加入群聊](https://jq.qq.com/?_wv=1027&k=5KGHW82)
-   * [小米内置应用](https://www.lanzous.com/b838135?from=groupmessage)
-   * [xp框架](https://www.lanzous.com/b753499)
-   * [最新破解软件](https://www.ghpym.com/category/all/android)
-* [windows版](#2)
-* [ios版](#4)
-* [网址推荐](#3)
+### 兴趣使然的少年 &nbsp; ![GitHub stars](https://img.shields.io/github/stars/truetears1/truetears.svg)
+
+个人作品 | 简述 
+---- | ---- 
+[QQ表情提取](http://wifi.huixia.cc/qqbq)|在线解密QQ收藏表情|
+[鱿鱼WIFI](http://wifi.huixia.cc/)|一个校园网账号两个人用|
+[Flat防红](http://flat.huixia.cc/)|QQ防红加短连接生成|
+[Hook定位](http://hook.huixia.cc/)|套网友地理位置（精确10米）|
 <h3 id="1">android版</h3>
 
 软件名 | 简述 
