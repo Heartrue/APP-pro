@@ -1,4 +1,4 @@
-[i](https://github.com/huixiacc/APP-pro/1.jpg)
+[huixiacc](https://github.com/huixiacc/APP-pro/blob/master/1.jpg)
 # APP-pro
 # 兴趣使然的少年 &nbsp; ![GitHub stars](https://img.shields.io/github/stars/huixiacc/APP-pro.svg)
 
