@@ -1,5 +1,5 @@
 ![huixiacc](https://github.com/huixiacc/APP-pro/blob/master/1.jpg)
-![huixiacc](http://wifi.huixia.cc/gitbq/)
+![huixiacc](http://wifi.huixia.cc/gitbq/index.php)
 # 兴趣使然的少年 &nbsp; ![GitHub stars](https://img.shields.io/github/stars/huixiacc/APP-pro.svg)
 
 个人作品 | 简述 
