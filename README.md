@@ -1,11 +1,11 @@
 ![huixiacc](https://github.com/huixiacc/APP-pro/blob/master/1.jpg)
-![huixiacc](http://wifi.huixia.cc/gitbq/index.php)
+![huixiac](http://wifi.huixia.cc/gitbq/index.php)
 # 兴趣使然的少年 &nbsp; ![GitHub stars](https://img.shields.io/github/stars/huixiacc/APP-pro.svg)
 
 个人作品 | 简述 
 ---- | ---- 
 [QQ表情提取](http://wifi.huixia.cc/qqbq)|在线解密QQ收藏表情|
-[鱿鱼WIFI](http://wifi.huixia.cc/)|一个校园网账号两个人用|
+[鱿鱼WIFI](http://wifi.huixia.cc/&j)|一个校园网账号两个人用|
 [Flat防红](http://flat.huixia.cc/)|QQ防红加短连接生成|
 [Hook定位](http://hook.huixia.cc/)|套网友地理位置（精确10米）|
 <h3 id="1">android版</h3>
