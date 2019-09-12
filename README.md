@@ -1,5 +1,5 @@
 # APP-pro
-### 兴趣使然的少年 &nbsp; ![GitHub stars](https://img.shields.io/github/stars/truetears1/truetears.svg)
+### 兴趣使然的少年 &nbsp; ![GitHub stars](https://img.shields.io/github/stars/huixiacc/APP-pro.svg)
 
 个人作品 | 简述 
 ---- | ---- 
