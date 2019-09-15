@@ -12,6 +12,7 @@
 
 软件名 | 简述 
 ---- | ---- 
+[藏书阁破解](https://www.lanzous.com/i66o18f)|出版类图书下载|
 [devcheck](https://www.lanzous.com/i4goibi) | 悬浮显示系统参数 |
 [百度输入法皮肤](https://www.lanzous.com/i4goblg) | 非常好看的皮肤，也不花哨|
 [调色板](https://www.lanzous.com/i4d1yah) | rgb取色 |
