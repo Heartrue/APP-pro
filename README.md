@@ -2,6 +2,7 @@
 ![huixiac](http://huixia.xyz/git/lemon.svg)
 # 兴趣使然的少年 &nbsp; ![GitHub stars](https://img.shields.io/github/stars/huixiacc/APP-pro.svg)
 ![huixia](http://huixia.xyz/git/txt1.svg)
+![huixiasaw](mouse.swf)
 
 个人作品 | 简述 
 ---- | ---- 
